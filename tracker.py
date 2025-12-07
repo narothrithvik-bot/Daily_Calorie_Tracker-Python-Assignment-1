@@ -1,5 +1,5 @@
 # Name: Rithvik Naroth
-# Date: 29-11-2025
+# Date: 07-12-2025
 # Project: Daily Calorie Tracker (CLI)
 
 import time
